@@ -4,6 +4,7 @@
 A fully responsive Quick Reel landing page, <br />designed to promote an AI-powered tool for creating viral short clips. <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 <br />
+<br />
 <a href="https://psparwez.github.io/quick-reel/"><strong>➥ Live Demo</strong></a>
 
 </div>
@@ -76,6 +77,10 @@ A detailed comparison of the Free, Pro, and Premium subscription tiers, showcasi
 
 👉 **FAQ Section:**
 Answers to frequently asked questions to address user concerns and simplify onboarding.
+
+👉 **Animated Sections with ScrollReveal:** Smooth animations triggered as the user scrolls through the page, implemented using the ScrollReveal library to enhance engagement and visual appeal.
+
+
 
 👉 **Footer:**
 A footer with navigation links, social media icons, and a subscription option for the newsletter.
