@@ -1,6 +1,15 @@
 
+<br />
+<div align="center">
 
-<div align="center"> <h2 align="center">Quick Reel Website</h2> <br />
+![GitHub repo size](https://img.shields.io/github/repo-size/psparwez/quick-reel)
+![GitHub stars](https://img.shields.io/github/stars/psparwez/quick-reel?style=social)
+![GitHub forks](https://img.shields.io/github/forks/psparwez/quick-reel?style=social)
+
+<br />
+<br />
+<h1 align="center">Quick Reel Website</h1> <br />
+<br />
 A fully responsive Quick Reel landing page, <br />designed to promote an AI-powered tool for creating viral short clips. <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 <br />
