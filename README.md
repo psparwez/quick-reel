@@ -4,7 +4,7 @@
 A fully responsive Quick Reel landing page, <br />designed to promote an AI-powered tool for creating viral short clips. <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 <br />
-<a href="https://github.com/psparwez/quick-reel.git"><strong>➥ Live Demo</strong></a>
+<a href="https://psparwez.github.io/quick-reel/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -15,7 +15,11 @@ A fully responsive Quick Reel landing page, <br />designed to promote an AI-powe
 
 <div align="center">
   <br />
-      <img src="https://github.com/user-attachments/assets/31860509-fad8-4dd6-93ea-6081bd1e20dd" , alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/f2519d29-bac0-4470-992d-6af8f92a419e" , alt="Project Banner">
+      <br />
+      <br />
+      <br />
+      <img src="https://github.com/user-attachments/assets/589c1650-e524-4bbe-b291-a38fe2356342" , alt="Project Banner">
   <br />
   <br />
   <br />
